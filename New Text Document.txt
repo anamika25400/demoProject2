@@ -1,0 +1,33 @@
+For Loop:
+
+var name=["anu","ana"]
+for m name{
+print(m)
+}
+
+If else:
+
+var num = 200
+if num == 10 {
+print("Given Number Equal to 10")
+}
+else if num == 200 {
+print("Given Number Equal to 200")
+}
+else {
+print("Fail")
+}
+
+Switch:
+
+var num=10
+switch num{
+case 8:
+print("Ana")
+case 1:
+print("anu")
+case 10:
+print("Ani")
+default:
+print("No match")
+}
